@@ -1,3 +1,2 @@
-before initializing git
+after cloning
 
-after first push to git
