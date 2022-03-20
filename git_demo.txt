@@ -1,1 +1,3 @@
 before initializing git
+
+after first push to git
